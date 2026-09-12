@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Tony Tran
 
-I'm a **Machine Learning Engineer at [CFD Research Corporation](https://www.cfd-research.com/)**.
+I'm a **Machine Learning Engineer at [CFD Research Corporation](https://www.cfd-research.com/)** in the **Intelligence, Software & Sensing (ISS) Division under Jackson Cornelius**.
 My work focuses on AI model optimization on resource-constrained devices, hardware-software integration, and real-time hardware-in-the-loop simulation.
 
 - 🔭 **Currently working on:** Learning-Based Efficient Infrared Search and Track Algorithms, Hardware-in-the-Loop Simulation, and Edge AI Optimization
